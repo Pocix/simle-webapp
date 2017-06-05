@@ -1,0 +1,24 @@
+.header{
+    background-color:  #1d90e6;
+}
+.login-wrap{
+    background: #324157;
+}
+.plugins-tips{
+    background: #eef1f6;
+}
+.plugins-tips a{
+    color: #20a0ff;
+}
+.el-upload--text em {
+    color: #20a0ff;
+}
+.pure-button{
+    background: #20a0ff;
+}
+ .el-tabs--border-card>.el-tabs__header .el-tabs__item.is-active{
+        background-color: #20a0ff!important;
+        color:#fff;
+    }
+
+
